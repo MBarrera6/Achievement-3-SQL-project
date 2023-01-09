@@ -1,1 +1,1 @@
-# SQL_queries
+# Achievement 3 SQL project
